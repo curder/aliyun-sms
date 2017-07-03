@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Curder\\AliyunSms\\" : "src/Sms/",
+            "Curder\\AliyunSms\\" : "src/Sms/"
         }
     },
     "license": "MIT",
