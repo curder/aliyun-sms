@@ -19,7 +19,8 @@
  */
 namespace Curder\AliyunSms\Request\V20170525;
 
-class QuerySendDetailsRequest extends \RpcAcsRequest
+use Curder\AliyunCore\RpcAcsRequest;
+class QuerySendDetailsRequest extends RpcAcsRequest
 {
 	function  __construct()
 	{
