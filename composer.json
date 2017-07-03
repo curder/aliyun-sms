@@ -2,7 +2,6 @@
     "name": "curder/aliyun-sms",
     "description": "阿里云短信服务 PHP SDK 的 composer 封装",
     "keywords": ["aliyun", "aliyun-sms", "sdk"],
-    "type": "composer-plugin",
     "require": {
         "php": ">5.3",
         "curder/aliyun-core": "*"
@@ -18,6 +17,5 @@
             "name": "curder",
             "email": "curder@foxmail.com"
         }
-    ],
-    "minimum-stability": "dev-master"
+    ]
 }
