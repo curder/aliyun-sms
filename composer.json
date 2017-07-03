@@ -4,7 +4,7 @@
     "keywords": ["aliyun", "aliyun-sms", "sdk"],
     "require": {
         "php": ">5.3",
-        "curder/aliyun-core": "*"
+        "curder/aliyun-core": "dev-master"
     },
     "autoload": {
         "psr-4": {
